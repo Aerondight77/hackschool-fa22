@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Robot', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans';
+    background-color: #333333;
+    color: #E6E7E3;
+}
+
+#navbar{
+    background-color: #767875;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 25px;
+    font-size-adjust: 0.75;
+}
+
+.hometext{
+    font-size: larger;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+a {
+    color: #E6E7E3;
+    text-decoration: none;
+}
